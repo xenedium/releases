@@ -1,4 +1,10 @@
 version 6.9.2
 
-quay.io/argoproj/argocd:v2.11.0
-public.ecr.aws/docker/library/redis:7.2.4-alpine
+docker.io/eclipse-temurin:21
+docker.io/eclipse-temurin:21.0.3_9-jre-alpine
+docker.io/python:3.12.3-slim
+docker.io/golang:1.22.2-alpine
+docker.io/node:20.12.2-alpine
+docker.io/alpine:3.19.1
+mcr.microsoft.com/dotnet/sdk:8.0.204
+mcr.microsoft.com/dotnet/runtime-deps:8.0.4-alpine3.18-amd64
